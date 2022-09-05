@@ -1,0 +1,8 @@
+setup.py
+rakesh/__init__.py
+rakesh/pack1.py
+rakesh/pack2.py
+rakesh_software.egg-info/PKG-INFO
+rakesh_software.egg-info/SOURCES.txt
+rakesh_software.egg-info/dependency_links.txt
+rakesh_software.egg-info/top_level.txt
